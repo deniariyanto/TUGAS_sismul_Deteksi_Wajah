@@ -1,0 +1,26 @@
+C:\Users\Administrator\Downloads\Compressed\New folder\FaceRecProOV_Src\FaceRecProOV_Src\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Compressed\New folder\FaceRecProOV_Src\FaceRecProOV_Src\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Administrator\Downloads\Compressed\New folder\FaceRecProOV_Src\FaceRecProOV_Src\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Compressed\New folder\FaceRecProOV_Src\FaceRecProOV_Src\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Downloads\Compressed\New folder\FaceRecProOV_Src\FaceRecProOV_Src\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Downloads\Compressed\mengenal wajah\FaceRecProOV_Src\FaceRecProOV_Src\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Compressed\mengenal wajah\FaceRecProOV_Src\FaceRecProOV_Src\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Administrator\Downloads\Compressed\mengenal wajah\FaceRecProOV_Src\FaceRecProOV_Src\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Compressed\mengenal wajah\FaceRecProOV_Src\FaceRecProOV_Src\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Downloads\Compressed\mengenal wajah\FaceRecProOV_Src\FaceRecProOV_Src\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Downloads\Compressed\mengenal wajah\FaceRecProOV_Src\FaceRecProOV_Src\bin\Debug\MultiFaceRec.exe
+C:\Users\Administrator\Downloads\Compressed\mengenal wajah\FaceRecProOV_Src\FaceRecProOV_Src\bin\Debug\MultiFaceRec.pdb
+C:\Users\Administrator\Downloads\Compressed\mengenal wajah\FaceRecProOV_Src\FaceRecProOV_Src\bin\Debug\Emgu.Util.xml
+C:\Users\Administrator\Downloads\Compressed\mengenal wajah\FaceRecProOV_Src\FaceRecProOV_Src\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Administrator\Downloads\Compressed\mengenal wajah\FaceRecProOV_Src\FaceRecProOV_Src\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Administrator\Downloads\Compressed\mengenal wajah\FaceRecProOV_Src\FaceRecProOV_Src\bin\Debug\MainForm.resx
+E:\Tugas_Sismul\Tugas_Sismul\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Tugas_Sismul\Tugas_Sismul\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\Tugas_Sismul\Tugas_Sismul\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\Tugas_Sismul\Tugas_Sismul\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Tugas_Sismul\Tugas_Sismul\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Tugas_Sismul\Tugas_Sismul\bin\Debug\MainForm.resx
+E:\Tugas_Sismul\Tugas_Sismul\bin\Debug\MultiFaceRec.exe
+E:\Tugas_Sismul\Tugas_Sismul\bin\Debug\MultiFaceRec.pdb
+E:\Tugas_Sismul\Tugas_Sismul\obj\x86\Debug\MultiFaceRec.exe
+E:\Tugas_Sismul\Tugas_Sismul\obj\x86\Debug\MultiFaceRec.pdb
